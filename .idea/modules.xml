@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/waracademia.iml" filepath="$PROJECT_DIR$/waracademia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.war.academia.iml" filepath="$PROJECT_DIR$/com.war.academia.iml" />
     </modules>
   </component>
 </project>
